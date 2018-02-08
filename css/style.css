@@ -491,7 +491,6 @@
 					margin-bottom: 0.70em;
 					letter-spacing: 1px;
 					line-height: 1.4em;
-					text-transform: uppercase;
 					font-size: 1.8em;
 					font-weight: 400;
 				}
@@ -499,7 +498,6 @@
 				.wrapper.style2 .major .byline {
 					letter-spacing: normal;
 					line-height: 1.6em;
-					text-transform: capitalize;
 					font-size: 1.4em;
 				}
 
@@ -576,7 +574,6 @@
 	#logo {
 		line-height: 2em;
 		letter-spacing: 2px;
-		text-transform: uppercase;
 		font-size: 2em;
 		font-weight: 400;
 	}
@@ -613,7 +610,6 @@
 					line-height: 4em;
 					letter-spacing: 2px;
 					text-decoration: none;
-					text-transform: uppercase;
 					font-weight: 400;
 					font-size: 1em;
 				}
@@ -651,7 +647,6 @@
 				color: inherit;
 				letter-spacing: 2px;
 				text-decoration: none;
-				text-transform: uppercase;
 			}
 
 			.dropotron > li.active > a, .dropotron > li:hover > a {
